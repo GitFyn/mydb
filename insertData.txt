@@ -1,0 +1,81 @@
+﻿
+
+###轮播图###
+('https://cdn.dianchouapp.com/Fu8HFui4sfkBAsdw_k9vqYDrvWrK', 'H5', 578)
+('https://cdn.dianchouapp.com/FkfkrLV4oKI274wpEoC7hg5Ik7E_', 'H5', 568)
+('https://cdn.dianchouapp.com/FieOkDh8HiUzrt6NSjrZ1oqdF_eV', 'H5', 581)
+
+
+###导航小图标###
+('https://cdn.dianchouapp.com/%E5%86%9C%E5%9C%BA@2x.png', '农场', '1')
+('https://cdn.dianchouapp.com/%E9%A3%9F%E8%B0%B1@2x.png', '食谱', '2')
+('https://cdn.dianchouapp.com/%E7%82%B9%E9%A2%91@2x.png', '点频', '3')
+('http://cdn.dianchouapp.com/FtD3-i_Td_OxWOzuAKsXxsucS9rQ', '市集', '4')
+('https://cdn.dianchouapp.com/vr@2x.png', 'VR', '5')
+
+
+###本期头条###
+('http://cdn.dianchouapp.com/Fma2876NNRNpeSqmLA_5luw32-D5', '立足当下 吉林把“三农”重点工作落实落地', '493')
+('http://cdn.dianchouapp.com/FhUW0RoXQv-FxuXYEpmyI4MBx2fQ', '2020年优势特色产业集群建设启动', '463')
+('http://cdn.dianchouapp.com/FkLoqJ5zz36qHcPgZj4AX1B6cjgb', '农货出山光靠“带货”还不够', '461')
+('http://cdn.dianchouapp.com/FvM2HxMGtEpHH3qYDsV2Q16IhP6b', '吉林出台26条政策措施 确保粮食生产安全 扩大“菜篮子”产品生产', '468')
+('http://cdn.dianchouapp.com/FlwidyfnbB_gHNspgZ9M0-vkKjMD', '疫情期间如何提高抵抗力？补充优质蛋白', '465')
+
+
+###达人食谱###
+('http://cdn.dianchouapp.com/FjHlJKatyoTlWoWnEu3Py4d6oqLn', '超下饭的豆豉鲮鱼蒸白菜！', '918')
+('http://cdn.dianchouapp.com/FouGENnK7-_AH4LAW1XNmRUe87dm', '蔓越莓山药糕，酸酸甜甜又Q弹~', '936')
+('http://cdn.dianchouapp.com/FqOYOhVaWz3wk3TPI7UanPJlfyva', '来试试补血养颜的黑玉米排骨汤~', '971')
+('http://cdn.dianchouapp.com/FrIYn74b3u_sqdBQ9eekoTaDL67f', '来一道经典川菜麻婆豆腐！', '940')
+('http://cdn.dianchouapp.com/FsKGJuzpuXlgJpbP9fyEzhAwA1kK', '自制肥牛饭就是这么简单！', '1138')
+
+
+###吃货佬###
+('http://cdn.dianchouapp.com/FnZWqmhSHkKspJyGv0EQgsKBRkcU', '我是一只鱼~', '1325')
+('http://cdn.dianchouapp.com/FtCukHw4xkbLvYnrGcFZZAY1mmV9', '一家人一起干活我觉得是最幸福的事', '1506')
+('http://cdn.dianchouapp.com/Fl2e0zY8zU4zcmxyg_fz9eJ5A9Am', '粉蕉梳果断蕾！', '1547')
+('http://cdn.dianchouapp.com/FtMLWvMuRdARP4I1tbVW0I6uUzV0', '烤红薯', '1450')
+('http://cdn.dianchouapp.com/FhZSyrEnD16shjX0iD6QWVq7lrxI', '男儿当自强', '1429')
+
+
+###点筹农场###
+('https://cdn.dianchouapp.com/FqqBFYyx5uZQaOzXhloglMZXlNvu', '丹棱不知火丑橘土地流转', 4603)
+('https://cdn.dianchouapp.com/Fh_x7EfdINLkIq6Zh8QsjHJNcF64', '广西新鲜七彩椒土地流转', 4601)
+('https://cdn.dianchouapp.com/FspZ7C2VnZi3MTQou9JLGs6Km9X0', '陕西绿心猕猴桃土地流转', 4600)
+('https://cdn.dianchouapp.com/FjHHZMoT5HyIAIFFnf8WPN0b77DR', '金湖新鲜脆藕土地流转', 4602)
+
+
+###名企展播###
+('http://otoi9ru5b.bkt.clouddn.com/Fha3j8gti5DKkJuQRxM3CyE_kZmL', '舌尖上的赣味美食都在这里', 19)
+('http://otoi9ru5b.bkt.clouddn.com/FuPg69vsERKhu2BC6NWSkhwQEswr', '辽霸稻生红河蟹，一蟹上桌百菜无味', 21)
+('http://otoi9ru5b.bkt.clouddn.com/FoRHJ9GMdQXv8G2gqiBPg2du80Wg', '恩施生态山茶园，守护舌尖的一滴油', 32)
+('http://otoi9ru5b.bkt.clouddn.com/FqqELkbdsTYYOwH8S_GIEiULknES', '一株千万人追捧的“黑色”小麦', 33)
+('http://otoi9ru5b.bkt.clouddn.com/FvSUFEaemQdSJBRPEa1-SulMp1Qn', '和螃蟹一起长大的稻米', 42)
+('http://otoi9ru5b.bkt.clouddn.com/FiIHNmrQJHKK45FebBso55S4phIS', '雾霾来袭，清肺养肝全靠它', 50)
+('http://otoi9ru5b.bkt.clouddn.com/FpVHIVOz8oGRxFXRxIv8vZ7D1yeK', '富硒的红薯原来长这样！', 51)
+('http://otoi9ru5b.bkt.clouddn.com/FmGLD1eebTEvvcZmpHrql4p_m2hZ', '焦岗湖畔，邀您赏莲品渔家乐', 52)
+('http://otoi9ru5b.bkt.clouddn.com/Fn_8zZq4pfG1bi2QW1GyiIwC2eni', '寻一片净土，耕一方良田', 54)
+('http://otoi9ru5b.bkt.clouddn.com/Fujk2evx2RzfKI6PyeZKb6tC7Kj-', '来自封禁山的好茶，真正的野生茶', 59)
+('http://otoi9ru5b.bkt.clouddn.com/Fme4y00cCpNNOfYxotmaKwDA2B6Y', '有机认证的山茶油来了！', 60)
+('http://otoi9ru5b.bkt.clouddn.com/FnJoKalKAo5DZjlXkP3LRySXH4r7', '“柚”不可挡，广丰马家柚，口齿留香', 61)
+
+
+###今日特价###
+('http://otoi9ru5b.bkt.clouddn.com/FsLCPBFj2DWxgcjc_0UQag-BsJ2q', '小地主专区', None)
+('http://otoi9ru5b.bkt.clouddn.com/FuJojfMHR6irmEtuZt3zg8TGYWyi', '好货拼团', None)
+('http://otoi9ru5b.bkt.clouddn.com/FvVM5nxPjifZah0o99zIiA9PenHT', '扶贫专区', None)
+('http://otoi9ru5b.bkt.clouddn.com/FnJYzAt7Aw89_iYVrl-Y86J-pVoM', '秒杀专区', None)
+('https://cdn.dianchouapp.com/Fl2KgAp5FAz2zSNhNO_53SgWXtby', '【爱心助农】云南小土豆，5斤装16.8元', 6912)
+('https://cdn.dianchouapp.com/FiyArl6tP0yHNEOEou0cPYQRTVLH', '【爱心助农】贵州高原土鸡蛋，30枚45元', 7546)
+('https://cdn.dianchouapp.com/FgwHUUDDVQFJMhw1Lk9MScDZQZMv', '嵩山平底锅巴，松脆鲜爽，120g×4袋21.8元', 7881)
+
+
+###进口货###
+('https://resource.pagoda.com.cn/group1/M00/06/A8/CmiLlFrz3rqABnPLAAYgsjeOtWQ016.jpg?width=800&height=800', 'B级-小台农芒', 6605)
+('https://resource.pagoda.com.cn/group1/M00/0E/E6/CmiLlFykCmuAPH76AAakXblrSpc510.jpg?width=800&height=800', 'B级-进口西梅', 6079)
+('https://resource.pagoda.com.cn/group1/M00/0F/AD/CmiLlFzSQXyAWgLnAAWQoVcNq1s382.jpg?width=800&height=800', '【现切】A级-台湾凤梨', 26456)
+('https://resource.pagoda.com.cn/group1/M00/06/A7/CmiU8Frz3dmALzNTAAbbvcRHLK0014.jpg?width=800&height=800', 'B级-进口黑提（中）', 4811)
+('https://resource.pagoda.com.cn/group1/M00/0E/78/CmiWiFyGMZOAT0zLAAUv3J5lAEY921.jpg?width=800&height=800', '【特惠】A级-甲伦榴莲（大）', 6897)
+('https://resource.pagoda.com.cn/group1/M00/11/C3/CmiWa11CL7eAEcB5AAYhb-oUNjw259.jpg?width=800&height=800', '【默认开口】A级-泰国椰青（中）', 6609)
+('https://resource.pagoda.com.cn/group1/M00/06/A7/CmiU8Frz3UaATGo8AATr65MlCRY012.jpg?width=800&height=800', '招牌-冰糖梨大（南水）', 4403)
+('https://resource.pagoda.com.cn/group1/M00/17/C9/CmiWa15bqNuAY0kbAAH6_GkLVAE207.jpg?width=800&height=800', '【助农】B级-小金煌芒', 47574)
